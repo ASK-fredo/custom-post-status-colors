@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Custom Post Status Colors
- * Plugin URI: https://askfredo.com
+ * Plugin URI: 
  * Description: Customize row background colors based on post status in the WordPress backend.
  * Version: 1.0
  * Author: Alfredo Villa
